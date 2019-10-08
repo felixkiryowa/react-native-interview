@@ -12,4 +12,4 @@ the route map on the mode of travel.
 To submit, fork this repository and share the repo to lema.andrew@easymatatu.com.
 
 # Due Date
-Tueday 15th October, 2019
+Tuesday 15th October, 2019 23:59
