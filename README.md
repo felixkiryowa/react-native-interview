@@ -9,7 +9,7 @@ the route map on the mode of travel.
 
 # Submission
 
-To submit, fork this repository and grant admin access to `andrewlema`
+To submit, fork this repository and share the repo to lema.andrew@easymatatu.com.
 
 # Due Date
 Tueday 15th October, 2019
