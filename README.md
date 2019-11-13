@@ -12,4 +12,4 @@ the route map on the mode of travel.The app should have tests.
 To submit, fork this repository and share the repo to lema.andrew@easymatatu.com.
 
 # Due Date
-Tuesday 20th November, 2019 23:59
+Wednesday 20th November, 2019 23:59
